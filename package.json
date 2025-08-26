@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "mock-stdin": "^1.0.0",
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "@babel/core": "^7.24.4",
